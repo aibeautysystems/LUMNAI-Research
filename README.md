@@ -2,148 +2,83 @@
 
 ## Overview
 
-LUMNAI Research System is a structured AI systems framework designed to model complexity, variability, and adaptive behavior in multi-variable environments through layered abstraction.
+LUMNAI Research System is a systems modeling framework focused on understanding variability, instability, and emergent behavior in complex multi-variable environments.
 
-The system explores how interactions between inputs, transformations, and contextual factors generate dynamic and evolving output patterns.
-
----
-
-## Core Vision
-
-To develop a unified modeling framework for understanding complex systems through structured relationships rather than static outputs.
-
-Systems are treated as evolving interaction networks where behavior emerges from relationships between variables.
+It studies how system behavior emerges from interactions between inputs, context, and response dynamics.
 
 ---
 
-## System Philosophy
+## Core Idea
 
-Traditional models focus on predicting outcomes.
+LUMNAI does not model outcomes.
 
-LUMNAI focuses on understanding why predictability fails.
-
-Outcome is not predefined — it emerges from system interactions under variable conditions.
+It models the conditions under which outcomes become unstable, non-linear, or unpredictable.
 
 ---
 
 ## Differentiation
 
-Most AI and systems frameworks focus on prediction or optimization of fixed outputs.
+Most systems aim to predict or optimize outputs.
 
-LUMNAI is structured around a different assumption:
-
-It does not model outcomes directly. It models instability between inputs, context, and system response over time.
+LUMNAI focuses on structural variability — treating inconsistency as meaningful system information rather than noise.
 
 ---
 
 ## Core Architecture
 
-### 1. Input Layer
-Represents structured variables and contextual parameters.
+Input Layer → Transformation Layer → Response Layer → Evaluation Layer → Adaptation Loop
 
-### 2. Transformation Layer
-Processes relationships between inputs and system conditions.
-
-### 3. Response Layer
-Represents system behavior under dynamic conditions.
-
-### 4. Evaluation Layer
-Measures consistency, variability, sensitivity, and predictability.
-
-### 5. Adaptation Layer
-Refines system structure based on feedback and observed patterns.
+Each layer represents a stage in system behavior emergence, not a fixed computation pipeline.
 
 ---
 
 ## Execution Model
 
+Systems operate as continuous feedback loops:
+
 Input → Transformation → Response → Evaluation → Adaptation → Iteration
 
-The system operates as a continuous feedback loop where each cycle improves structural understanding of variability.
+---
+
+## Evaluation Focus
+
+- Consistency
+- Variability
+- Sensitivity
+- Predictability
 
 ---
 
-## Data Model
+## Key Principle
 
-- Inputs: system variables and contextual factors  
-- Responses: behavioral patterns under conditions  
-- External Factors: environmental influences  
-- Outputs: stability and variability signatures  
+System behavior is defined by relationships between variables, not fixed outputs.
 
----
-
-## Evaluation Framework
-
-The system is evaluated across:
-
-- Consistency (stability over time)
-- Variability (response deviation)
-- Sensitivity (reaction to input changes)
-- Predictability (pattern formation strength)
-
----
-
-## Product Layer (Conceptual)
-
-A modular AI system composed of:
-
-- Data Input Module
-- Processing Engine
-- Pattern Analysis Layer
-- Evaluation Engine
-- Output Layer
-
-Designed as a flexible intelligence framework rather than a fixed application.
-
----
-
-## Use Cases (Conceptual Only)
-
-- complexity modeling systems
-- adaptive system analysis
-- predictive structure research
-- multi-variable interaction modeling
-
----
-
-## Final Edge Definition
-
-LUMNAI is not a predictive system, not a simulation engine, and not an optimization framework.
-
-It is a structural model for understanding why predictability breaks in complex systems.
-
----
-
-## Explicit Boundaries
-
-This framework does NOT:
-- generate operational decisions
-- model real-world procedural workflows
-- replicate proprietary or domain-specific execution methods
-- function as a clinical, medical, or applied system
-
----
-
-## Key Insight
-
-In complex systems, inconsistency is not noise — it is information.
-
-Variability is treated as a primary structure, not a secondary error.
+Variability is the primary signal of system structure.
 
 ---
 
 ## Positioning
 
-LUMNAI sits at the intersection of:
+LUMNAI sits within:
 - systems theory
 - complexity modeling
-- adaptive structure analysis
+- adaptive behavior analysis
 
-It is a research framework for interpreting system instability, not controlling it.
+It is a research framework for interpreting instability in complex systems.
+
+---
+
+## Boundaries
+
+This framework is strictly conceptual.
+
+It does not:
+- implement operational systems
+- define real-world procedures
+- represent clinical or applied workflows
 
 ---
 
 ## Status
 
-Early-stage research framework  
-Conceptual system under continuous development
+Early-stage systems research framework.
