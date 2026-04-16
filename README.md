@@ -2,74 +2,108 @@
 
 ## Overview
 
-LUMNAI Research System is an early-stage AI systems framework focused on modeling complexity, variability, and outcome dynamics in structured multi-layer environments.
+LUMNAI Research System is a structured AI systems framework designed to model complexity, variability, and adaptive behavior in multi-variable environments through layered abstraction.
 
-The system is designed to explore how inputs, responses, and external conditions interact to produce measurable behavioral patterns in complex systems.
-
----
-
-## Vision
-
-To develop a structured intelligence framework capable of understanding and modeling variability in complex environments through system-level abstraction and iterative learning loops.
+The system explores how interactions between inputs, transformations, and contextual factors generate dynamic and evolving output patterns.
 
 ---
 
-## Problem Space
+## Core Vision
 
-Modern systems often fail to account for:
+To develop a unified modeling framework for understanding complex systems through structured relationships rather than static outputs.
 
-- variability in conditions
-- non-linear response behavior
-- external contextual influence
-- dynamic system adaptation
+This approach treats systems as continuously evolving interaction networks.
 
-LUMNAI addresses these gaps through structured modeling of system interactions.
+---
+
+## System Philosophy
+
+Traditional models focus on fixed outputs.  
+LUMNAI focuses on relationships between variables.
+
+Outcome is not predefined — it emerges from system interactions.
 
 ---
 
 ## Core Architecture
 
 ### 1. Input Layer
-Defines structured system variables and external parameters.
+Represents structured variables and contextual parameters.
 
 ### 2. Transformation Layer
 Processes relationships between inputs and system conditions.
 
 ### 3. Response Layer
-Simulates system behavior under variable conditions.
+Represents system behavior under dynamic conditions.
 
 ### 4. Evaluation Layer
-Analyzes consistency, variability, and system stability.
+Measures consistency, variability, and stability of system behavior.
 
-### 5. Adaptation Loop
-Refines system structure based on observed behavioral patterns.
-
----
-
-## Core Principle
-
-Systems are not static outputs, but dynamic interaction networks.
-
-Outcome = f(Inputs, System Response, External Factors)
+### 5. Adaptation Layer
+Refines system structure based on feedback and observed patterns.
 
 ---
 
-## Potential Applications
+## Execution Model
 
-- complex system modeling
-- predictive behavior analysis
-- AI-driven system design research
-- structured decision modeling frameworks
+Input → Transformation → Response → Evaluation → Adaptation → Iteration
+
+The system operates as a continuous feedback loop where each cycle improves structural understanding of variability.
+
+---
+
+## Data Model
+
+- Inputs: system variables and contextual factors  
+- Responses: behavioral patterns under conditions  
+- External Factors: environmental influences  
+- Outputs: stability and variability signatures  
+
+---
+
+## Evaluation Framework
+
+The system is evaluated across:
+
+- Consistency (stability over time)
+- Variability (response deviation)
+- Sensitivity (reaction to input changes)
+- Predictability (pattern formation strength)
+
+---
+
+## Product Concept (Abstract)
+
+A modular AI system composed of:
+
+- Data Input Module
+- Processing Engine
+- Pattern Analysis Layer
+- Evaluation Engine
+- Output Layer
+
+Designed as a flexible intelligence framework rather than a fixed application.
+
+---
+
+## Use Case Domains (Conceptual Only)
+
+- complexity modeling systems
+- adaptive system analysis
+- predictive structure research
+- multi-variable interaction modeling
+
+---
+
+## System Principle
+
+The system does not define outcomes.
+
+It defines structured relationships that generate outcomes through interaction.
 
 ---
 
 ## Status
 
-Early-stage research system.  
-Conceptual framework under active development.
-
----
-
-## Note
-
-This project is strictly conceptual and does not represent operational, clinical, or real-world procedural systems.
+Early-stage research framework  
+Conceptual system under continuous development
