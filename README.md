@@ -7,67 +7,32 @@ LUMNAI Research System is a structured AI systems framework designed to model co
 The system explores how interactions between inputs, transformations, and contextual factors generate dynamic and evolving output patterns.
 
 ---
-## Differentiation
 
-Most AI and systems frameworks focus on prediction, classification, or optimization of fixed outputs.
-
-LUMNAI is structured around a different assumption:
-
-It does not model outcomes directly.  
-It models the instability between inputs, context, and system response over time.
-
-Instead of asking "what will happen?", it asks:
-
-"under what conditions does system behavior shift?"
-
----
-
-## Core Distinction
-
-Traditional systems:
-- map inputs → outputs
-- optimize for accuracy
-- assume stable relationships
-
-LUMNAI approach:
-- maps interactions between variables
-- models variability as the primary signal
-- treats instability as structured information, not noise
-
----
-
-## What This Enables
-
-- understanding why identical inputs produce different outcomes
-- modeling sensitivity thresholds in complex systems
-- identifying hidden structure in variability patterns
-- designing systems that adapt through feedback, not fixed rules
-
----
-
-## Positioning
-
-This framework sits between:
-- systems modeling
-- adaptive AI structures
-- complexity theory applications
-
-It is not a predictive engine.  
-It is a structural model for understanding why prediction fails in complex environments.
 ## Core Vision
 
 To develop a unified modeling framework for understanding complex systems through structured relationships rather than static outputs.
 
-This approach treats systems as continuously evolving interaction networks.
+Systems are treated as evolving interaction networks where behavior emerges from relationships between variables.
 
 ---
 
 ## System Philosophy
 
-Traditional models focus on fixed outputs.  
-LUMNAI focuses on relationships between variables.
+Traditional models focus on predicting outcomes.
 
-Outcome is not predefined — it emerges from system interactions.
+LUMNAI focuses on understanding why predictability fails.
+
+Outcome is not predefined — it emerges from system interactions under variable conditions.
+
+---
+
+## Differentiation
+
+Most AI and systems frameworks focus on prediction or optimization of fixed outputs.
+
+LUMNAI is structured around a different assumption:
+
+It does not model outcomes directly. It models instability between inputs, context, and system response over time.
 
 ---
 
@@ -83,7 +48,7 @@ Processes relationships between inputs and system conditions.
 Represents system behavior under dynamic conditions.
 
 ### 4. Evaluation Layer
-Measures consistency, variability, and stability of system behavior.
+Measures consistency, variability, sensitivity, and predictability.
 
 ### 5. Adaptation Layer
 Refines system structure based on feedback and observed patterns.
@@ -118,7 +83,7 @@ The system is evaluated across:
 
 ---
 
-## Product Concept (Abstract)
+## Product Layer (Conceptual)
 
 A modular AI system composed of:
 
@@ -132,7 +97,7 @@ Designed as a flexible intelligence framework rather than a fixed application.
 
 ---
 
-## Use Case Domains (Conceptual Only)
+## Use Cases (Conceptual Only)
 
 - complexity modeling systems
 - adaptive system analysis
@@ -141,11 +106,40 @@ Designed as a flexible intelligence framework rather than a fixed application.
 
 ---
 
-## System Principle
+## Final Edge Definition
 
-The system does not define outcomes.
+LUMNAI is not a predictive system, not a simulation engine, and not an optimization framework.
 
-It defines structured relationships that generate outcomes through interaction.
+It is a structural model for understanding why predictability breaks in complex systems.
+
+---
+
+## Explicit Boundaries
+
+This framework does NOT:
+- generate operational decisions
+- model real-world procedural workflows
+- replicate proprietary or domain-specific execution methods
+- function as a clinical, medical, or applied system
+
+---
+
+## Key Insight
+
+In complex systems, inconsistency is not noise — it is information.
+
+Variability is treated as a primary structure, not a secondary error.
+
+---
+
+## Positioning
+
+LUMNAI sits at the intersection of:
+- systems theory
+- complexity modeling
+- adaptive structure analysis
+
+It is a research framework for interpreting system instability, not controlling it.
 
 ---
 
