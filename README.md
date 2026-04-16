@@ -1,5 +1,7 @@
 # LUMNAI Research System
 
+LUMNAI is a variability-first systems framework that models why predictability breaks in complex environments by focusing on structural instability rather than fixed outcomes.
+
 ## Overview
 
 LUMNAI Research System is a systems modeling framework focused on understanding variability, instability, and emergent behavior in complex multi-variable environments.
